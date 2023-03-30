@@ -1,0 +1,15 @@
+{
+  "name": "mongodb_connect",
+  "version": "1.0.0",
+  "description": "app pour se connecter à une base de données mongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bopi1829",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
