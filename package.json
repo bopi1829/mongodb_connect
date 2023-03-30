@@ -4,7 +4,8 @@
   "description": "app pour se connecter à une base de données mongoDB",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "author": "bopi1829",
   "license": "ISC",
