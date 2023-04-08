@@ -1,6 +1,8 @@
+// Imports
 const http = require('http')
 const app = require('./app')
 
+// Configuration server
 const normalizePort = val => {
     const port = parseInt(val, 10)  
     if (isNaN(port)) {
